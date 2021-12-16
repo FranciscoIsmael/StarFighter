@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fed1d5f976a627d46985bef9bf9e2b6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverSound: {instanceID: 0}
+  - crashSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
